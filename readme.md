@@ -10,7 +10,7 @@ En la siguiente imagen se verá como he creado el repositorio en la ubicacion de
 
 En la siguiente imagen se verá como he creado el fichero README.MD para ir añadiendo los pasos que he realizado.
 
-<img scr="D:\EJERCICIOS LEMON CODE\Laboratorio_Modulo1\src\Foto2-Creando_Fichero_Readme.jpg" alt="Creando Readme.md" tittle="Creando Readme.md"/>
+![Creando Readme](./src/Foto2-Creando_Fichero_Readme.jpg)
 
 ## Paso 2: Crear repositorio en la nube (GitHub).
 
@@ -20,7 +20,7 @@ En la siguiente imagen se verá como he creado el fichero README.MD para ir aña
 
 En la siguiente imagen se verá que he conectado el repo local con el de la nube (Con el archivo Readme).
 
-<img scr="D:\EJERCICIOS LEMON CODE\Laboratorio_Modulo1\src\Foto4-Repo_conectado.jpg" alt="Conectando repo remoto" tittle="Conectando repo remoto"/>
+![Conectando repo remoto](./src/Foto4-Repo_conectado.jpg)
 
 ## Paso 3: He creado un archivo .js, lo he puesto en staging (git add .), lo he commiteado y lo he enviado al repositorio de la nube.
 
