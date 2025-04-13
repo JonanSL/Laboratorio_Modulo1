@@ -32,6 +32,8 @@ En la siguiente imagen se ve el archivo creado, el staging, el commit y el push.
 
 En la siguiente imagen se ve la rama creada, el archivo .js modificado, el commit y el push.
 
+![Rama nueva, archivo modificado, commit y push](./src/Foto6-Rama_nueva_push.jpg)
+
 
 
 
