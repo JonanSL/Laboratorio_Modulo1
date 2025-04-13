@@ -28,6 +28,10 @@ En la siguiente imagen se ve el archivo creado, el staging, el commit y el push.
 
 ![Archivo nuevo, staging, commit y push](./src/Foto5-Añadiendo_fichero_add_commit_push.jpg)
 
+## Paso 4: Creando rama nueva "Development", modificando fichero .js, commitear los cambios y subirlos al repositorio GitHub
+
+En la siguiente imagen se ve la rama creada, el archivo .js modificado, el commit y el push.
+
 
 
 
