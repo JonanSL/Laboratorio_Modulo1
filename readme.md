@@ -34,6 +34,12 @@ En la siguiente imagen se ve la rama creada, el archivo .js modificado, el commi
 
 ![Rama nueva, archivo modificado, commit y push](./src/Foto6-Rama_nueva_push.jpg)
 
+## Paso 5: Hacer un merge desde la rama Development a la rama Master y subirlo.
+
+En la siguiente imagen se ve el cambio de rama a master para hacer un merge y subirlo a remoto.
+
+![Cambio rama, merge con Development y push](./src/Foto7-RamaMaster_Merge_push.jpg)
+
 
 
 
